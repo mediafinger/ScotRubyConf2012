@@ -25,7 +25,9 @@ It a rough version by now - links to the ScotRubyConf website, Speakerdeck, Lany
 
 ### Mike Lee [@bmf](https://twitter.com/@bmf) - Diversity, 1st Keynote [day_1_0]
 
-![(Notes)](https://twitter.com/LS_nerdherder/status/218696796568944642/photo/1/large)
+![(Notes)](https://p.twimg.com/Awj3k-mCAAA5Y-g.jpg)
+[(Notes)](https://twitter.com/LS_nerdherder/status/218696796568944642/photo/1/large)
+
 
 ***
 
@@ -237,7 +239,8 @@ Rails.js (tbd) as a better consumer (than Backbone, Ember, ...)
 
 > How to make a Salami
 
-![(Notes)](https://twitter.com/jessabean/status/219404143935238144/photo/1/large)
+![(Notes)](https://p.twimg.com/Awt66A3CMAAIAap.jpg)
+[(Notes)](https://twitter.com/jessabean/status/219404143935238144/photo/1/large)
 
 ***
 
@@ -387,5 +390,7 @@ japanese character, meaning "Art of Movement"
 
 > You are what you do! - Do good!
 
-![(Notes)](https://twitter.com/jessabean/status/219404886335434752/photo/1/large)
+![(Notes)](https://p.twimg.com/Awt7lOhCMAEn0nU.jpg)
+[(Notes)](https://twitter.com/jessabean/status/219404886335434752/photo/1/large)
+
 
